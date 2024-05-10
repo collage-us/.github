@@ -1,4 +1,4 @@
-# Collage
+<h1>Collage</h1>
 
 ## Our Mission
 
