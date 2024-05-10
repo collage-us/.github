@@ -1,6 +1,4 @@
-<h1>Collage</h1>
-
-## Our Mission
+# Our Mission
 
 Higher education is at a crossroads. The traditional college class is becoming increasingly obsolete as we’ve witnessed lower attendance and lower grades, and the amount of students using generative AIs like ChatGPT to complete their work has skyrocketed. The way college operates is rapidly evolving and that is largely due to one key development in consumer demand: personalization.
 
