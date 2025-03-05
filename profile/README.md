@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About the Platform
 
-<div style="font-size: 20px; color: red; font-weight: bold;">Currently, because of security reasons, we made our repositories private.</div>
+**⚠️ Currently, because of security reasons, we made our repositories private.**
 
 ### Platform Demo
 
