@@ -42,16 +42,20 @@
   </p>
 </div>
 
-
-<!-- ABOUT THE PROJECT -->
-## About the Platform
+## Collage Codebase Announcement
 
 **⚠️ Currently, because of security reasons, we made our repositories private.**
+
 Internally, we keep: 
+
 - Collage's `Next.js` frontend codebase
 - Collage's Python `Flask` backend codebase
 - our own Internal Data Framework used for fetching and parsing LLM RAG data
 - deprecated JS `React` codebase
+
+
+<!-- ABOUT THE PROJECT -->
+## About the Platform
 
 ### Platform Demo
 
