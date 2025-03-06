@@ -47,6 +47,11 @@
 ## About the Platform
 
 **⚠️ Currently, because of security reasons, we made our repositories private.**
+Internally, we keep: 
+- Collage's `Next.js` frontend codebase
+- Collage's Python `Flask` backend codebase
+- our own Internal Data Framework used for fetching and parsing LLM RAG data
+- deprecated JS `React` codebase
 
 ### Platform Demo
 
