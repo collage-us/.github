@@ -50,6 +50,7 @@ Internally, we keep:
 
 - Collage's `Next.js` frontend codebase
 - Collage's Python `Flask` backend codebase
+- Collage's mobile platform codebase
 - our own Internal Data Framework used for fetching and parsing LLM RAG data
 - deprecated JS `React` codebase
 
