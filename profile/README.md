@@ -73,7 +73,7 @@ From the TikTok for you page to the Amazon marketplace, a personalized user expe
 
 If universities want their students to reengage they need to personalize the user experience. Colleges need to start looking at themselves not solely as educational institutions, but as tech and social media companies as well.
 
-This is the guiding mission of Collage. Collage is an education technology platform that uses artificial intelligence and social media to help students craft personalized class schedules, explore career paths, and make informed decisions about their education. We are a student-run startup striving to give students around the world a more equitable, enjoyable, and personalized college experience.
+This is the guiding mission of Collage. Collage is an education technology platform that uses artificial intelligence and social media to help students craft personalized class schedules, explore career paths, and make informed decisions about their education. We are a student team striving to give students around the world a more equitable, enjoyable, and personalized college experience.
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 #### Never Stress about Class Scheduling Again
